@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4F81BD">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110000101" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4F81BD">
   <layouts>
     <layout name="npnxnanbsnfns10110000101" font="Lato" controllayout="npnxnanbsnfns10110000101" colorscheme="pxabnsnfns10110000101" string_table="pxabnsnfns10110000101" />
     <layout name="pxabnsnfns10110000101" font="Lato" controllayout="pxabnsnfns10110000101" colorscheme="pxabnsnfns10110000101" string_table="pxabnsnfns10110000101" />
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Leadership-Antecedents" />
+              <option name="title_text" value="Getting Started-2022" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -22,7 +22,6 @@
           <option name="sidebar_enabled" value="false">
             <options>
               <option name="sidebarpos" value="left" />
-              <option name="closed" value="false" />
             </options>
           </option>
           <optionlist name="tabs">
@@ -53,7 +52,7 @@
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
           <option name="autonumber" value="false" />
-          <option name="enableresultsicons" value="true" />
+          <option name="enableresultsicons" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="controls">
@@ -65,14 +64,14 @@
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
-          <option name="pauseplay" value="true" />
-          <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
+          <option name="closed_captions" value="false">
             <options>
               <option name="font" value="Lato" />
             </options>
           </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
           <option name="settings" value="false" />
         </options>
       </optiongroup>
@@ -1422,7 +1421,7 @@
       <string id="acc_active">active</string>
       <string id="alt_key">Alt</string>
       <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
+      <string id="clear">Clear and return to Menu</string>
       <string id="close">Close</string>
       <string id="acc_closed_captions">Closed captions.</string>
       <string id="closed_captions_tip">Toggle captions</string>
@@ -1453,7 +1452,7 @@
       <string id="submit_shortcut">Submit slide</string>
       <string id="acctext_shortcut">Toggle accessible text</string>
       <string id="closedcaptions_shortcut">Toggle closed captions</string>
-      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="togglezoom">Switch zoom modes</string>
       <string id="outline">Menu</string>
       <string id="disabled_orientation">Please rotate your device</string>
       <string id="progress_minute">minute</string>
@@ -1521,7 +1520,22 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6H2bKbDsoe9.6paHZ8CX1iZ" displaytext="Rewarding Ex" expand="false" type="slide" />
+        <slidelink slideid="_player.6a0kzyq2Kkh" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6a0kzyq2Kkh.6mfHMRDtKWW" displaytext="Layered Reporting" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6P3VGsXiaxO" displaytext="Working with Multiple Groups" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6V4gQgTz5tv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.687kS4uMPLA" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6Ij1ZgNIUuQ" displaytext="3 Cards = 3 Schools" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.5u7DsHsQ4oj" displaytext="Our Purpose" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6j64aXWTQKU" displaytext="Dropout " expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6OFUU4h38Vh" displaytext="Graduate" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6XagGXz4EON" displaytext="College" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.600Izzquq3S" displaytext="Bypass Remedial" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.5aajehVk0Wr" displaytext="Succeed" expand="false" type="slide" />
+            <slidelink slideid="_player.6a0kzyq2Kkh.6I7IOcQX6lA" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
